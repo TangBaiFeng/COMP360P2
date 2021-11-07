@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+C:\Users\steph\source\repos\COMP360P2-1\COMP360P2-1\new1.h(8,14): error C2065: 'Employee': undeclared identifier
+C:\Users\steph\source\repos\COMP360P2-1\COMP360P2-1\new1.h(8,23): error C2059: syntax error: '>'
+C:\Users\steph\source\repos\COMP360P2-1\COMP360P2-1\MyForm.h(37,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\steph\source\repos\COMP360P2-1\COMP360P2-1\MyForm.cpp(9,16): error C2011: 'Employee': 'class' type redefinition
+C:\Users\steph\source\repos\COMP360P2-1\COMP360P2-1\MyForm.h(10): message : see declaration of 'Employee'
+C:\Users\steph\source\repos\COMP360P2-1\COMP360P2-1\MyForm.cpp(34,18): error C2011: 'Technician': 'class' type redefinition
+C:\Users\steph\source\repos\COMP360P2-1\COMP360P2-1\MyForm.h(18): message : see declaration of 'Technician'
+C:\Users\steph\source\repos\COMP360P2-1\COMP360P2-1\MyForm.cpp(56,16): error C2011: 'Engineer': 'class' type redefinition
+C:\Users\steph\source\repos\COMP360P2-1\COMP360P2-1\MyForm.h(27): message : see declaration of 'Engineer'
+C:\Users\steph\source\repos\COMP360P2-1\COMP360P2-1\MyForm.cpp(67,24): error C2011: 'MarketingManager': 'class' type redefinition
+C:\Users\steph\source\repos\COMP360P2-1\COMP360P2-1\MyForm.h(34): message : see declaration of 'MarketingManager'
+C:\Users\steph\source\repos\COMP360P2-1\COMP360P2-1\MyForm.cpp(84,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
